@@ -1,0 +1,36 @@
+/* Author Jacob Psimos 2016 */
+/* This is a confediental file. No unauthorized access! */
+/* All rights reserved */
+
+#ifndef __SENSORS__
+#define __SENSORS__
+  #define SENSOR_CBT 0x104C0CB3
+	#define SENSOR_FUEL 0x1004C040
+	#define SENSOR_SPEED 0x0C050040
+	#define SENSOR_GPS_1 0x100AA097
+	#define SENSOR_GPS_2 0x100AC097
+	#define SENSOR_LIGHTING 0x10042040
+  #define SENSOR_DIMMER 0x10022040
+	#define SENSOR_BRAKES 0x1005E040
+  #define SENSOR_SEATBELT 0x001C30058
+	#define SENSOR_TRANSMISSION 0x1004A040
+  #define SENSOR_RFA 0x080080B0
+  #define SENSOR_TPMS_DSP 0x100140B0
+  #define SENSOR_CHIMER 0x1001E000
+  #define SENSOR_SYSTEM_POWER 0x10002040
+  #define SENSOR_VIN_1 0x10024040
+  #define SENSOR_VIN_2 0x10026040
+  #define SENSOR_VIN_INT 0x00000514
+  #define SENSOR_RADIO_TEXT_REQ 0x1030C089
+  #define SENSOR_RADIO_AUDIO_STATUS 0x1031C089
+  #define SENSOR_OBD_REQ 0x000007E0
+  #define SENSOR_OBD_RESP 0x000007E8
+#endif
+
+
+
+
+
+
+
+
