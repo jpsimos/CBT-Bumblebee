@@ -21,7 +21,7 @@ Objectives:
 Overall, development was a fun learning experience. Code design was not the primary concern, but smooth and bug-free operation
 was the idea. The programmed device could remain connected to the vehicle for months without crashing, freezing, or rebooting.
 
-Please excuse misspelled words.
+Please excuse misspelled words and random comments - I've left them intact to preserve history.
 
 Remember, safety is priority.
 
