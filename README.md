@@ -2,6 +2,8 @@
 This project was my attempt at enhancing the experience of my vehicle in college and to gain experience with embedded processors.
 It runs on the CanBusTriple (8-bit). 
 
+I did not leverage versioning systems throughout my efforts - there were mainly two versions of the project. The original one took over the factory radio as the main display and the Bumblebee version (Atmel Studio) targeted the driver information center LCD screen for displaying project features. Try not to hate me for the disarray.
+
 Objectives:
 	1. To poll both vehicle busses exposed at the OBD-II port.
 	2. Make standard OBD-II service requests for some vehicle data.
